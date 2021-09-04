@@ -1,0 +1,10 @@
+Kaboom.js is a JavaScript library that helps you make games fast and fun!!
+It simplifies creating scenes, adding layers, creating sprites, dealing with actions and collisions 
+adding key events, debugging and so much more. 
+
+Core Concepts :- 
+1)Objects - add(), destroy() 
+2)Components - pos(), scale(), sprite(), body(), solid(), origin()
+3)Events - collides(), keyDown(), keyPress()
+4)Level - addLevel()
+
